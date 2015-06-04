@@ -1,7 +1,7 @@
 # AspNet.Identity.PostgreSQL
 This project is an Asp.Net Identity Provider for work with PostgreSQL Database. It has been used [Npgsql](http://npgsql.projects.pgfoundry.org/), so, should work with most PostgreSQL versions.
 
-The base for this project was [AspNet.Identity.PostgreSQL](https://github.com/danellos/AspNet.Identity.PostgreSQL) and [AspNet.Identity.MySQL](https://aspnet.codeplex.com/SourceControl/latest#Samples/Identity/AspNet.Identity.MySQL/) with a lot of modifications to make more simple to use your own database structure. For example, in every Table Class, you gonna see all the consts used for that class. The fields used in this project is similar to Asp.Net Identity 2.1
+The base for this project was [AspNet.Identity.PostgreSQL](https://github.com/danellos/AspNet.Identity.PostgreSQL) and [AspNet.Identity.MySQL](https://aspnet.codeplex.com/SourceControl/latest#Samples/Identity/AspNet.Identity.MySQL/) with a lot of modifications to make more simple to use your own database structure. For example, in every Table Class, you gonna see all the consts used for that class. The fields for database structure used in this project is similar to Asp.Net Identity 2.1
 
 If you wanna to make a change in the name of the field used by this provider, you should modify the consts located in each table class, and reflect this in your database. This project doesn't use CodeFirst.
 
