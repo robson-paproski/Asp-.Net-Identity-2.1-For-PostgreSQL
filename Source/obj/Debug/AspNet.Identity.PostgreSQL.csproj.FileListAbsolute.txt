@@ -1,0 +1,16 @@
+C:\Users\Robson\Downloads\Hope\AspNet.Identity.PostgreSQL-master\src\obj\Debug\AspNet.Identity.PostgreSQL.csprojResolveAssemblyReference.cache
+C:\Users\Robson\Downloads\Hope\AspNet.Identity.PostgreSQL-master\src\bin\Debug\AspNet.Identity.PostgreSQL.dll
+C:\Users\Robson\Downloads\Hope\AspNet.Identity.PostgreSQL-master\src\bin\Debug\AspNet.Identity.PostgreSQL.pdb
+C:\Users\Robson\Downloads\Hope\AspNet.Identity.PostgreSQL-master\src\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Robson\Downloads\Hope\AspNet.Identity.PostgreSQL-master\src\bin\Debug\Mono.Security.dll
+C:\Users\Robson\Downloads\Hope\AspNet.Identity.PostgreSQL-master\src\bin\Debug\Npgsql.dll
+C:\Users\Robson\Downloads\Hope\AspNet.Identity.PostgreSQL-master\src\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Robson\Downloads\Hope\AspNet.Identity.PostgreSQL-master\src\bin\Debug\Npgsql.xml
+C:\Users\Robson\Downloads\Hope\AspNet.Identity.PostgreSQL-master\src\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Robson\Downloads\Hope\AspNet.Identity.PostgreSQL-master\src\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Robson\Downloads\Hope\AspNet.Identity.PostgreSQL-master\src\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Robson\Downloads\Hope\AspNet.Identity.PostgreSQL-master\src\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Robson\Downloads\Hope\AspNet.Identity.PostgreSQL-master\src\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Robson\Downloads\Hope\AspNet.Identity.PostgreSQL-master\src\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Robson\Downloads\Hope\AspNet.Identity.PostgreSQL-master\src\obj\Debug\AspNet.Identity.PostgreSQL.dll
+C:\Users\Robson\Downloads\Hope\AspNet.Identity.PostgreSQL-master\src\obj\Debug\AspNet.Identity.PostgreSQL.pdb
